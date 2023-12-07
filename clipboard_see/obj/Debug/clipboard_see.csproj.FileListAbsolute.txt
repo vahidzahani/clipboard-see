@@ -1,0 +1,11 @@
+C:\Users\vahid\source\repos\clipboard_see\clipboard_see\obj\Debug\clipboard_see.csproj.AssemblyReference.cache
+C:\Users\vahid\source\repos\clipboard_see\clipboard_see\obj\Debug\clipboard_see.csproj.SuggestedBindingRedirects.cache
+C:\Users\vahid\source\repos\clipboard_see\clipboard_see\obj\Debug\clipboard_see.Form1.resources
+C:\Users\vahid\source\repos\clipboard_see\clipboard_see\obj\Debug\clipboard_see.Properties.Resources.resources
+C:\Users\vahid\source\repos\clipboard_see\clipboard_see\obj\Debug\clipboard_see.csproj.GenerateResource.cache
+C:\Users\vahid\source\repos\clipboard_see\clipboard_see\obj\Debug\clipboard_see.csproj.CoreCompileInputs.cache
+C:\Users\vahid\source\repos\clipboard_see\clipboard_see\bin\Debug\clipboard_see.exe.config
+C:\Users\vahid\source\repos\clipboard_see\clipboard_see\bin\Debug\clipboard_see.exe
+C:\Users\vahid\source\repos\clipboard_see\clipboard_see\bin\Debug\clipboard_see.pdb
+C:\Users\vahid\source\repos\clipboard_see\clipboard_see\obj\Debug\clipboard_see.exe
+C:\Users\vahid\source\repos\clipboard_see\clipboard_see\obj\Debug\clipboard_see.pdb
